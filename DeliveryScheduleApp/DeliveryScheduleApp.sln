@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryScheduleApp", "DeliveryScheduleApp\DeliveryScheduleApp.csproj", "{5BDF23B3-69B0-49AB-BEC4-7C897F5281BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDF23B3-69B0-49AB-BEC4-7C897F5281BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDF23B3-69B0-49AB-BEC4-7C897F5281BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDF23B3-69B0-49AB-BEC4-7C897F5281BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDF23B3-69B0-49AB-BEC4-7C897F5281BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30134A0D-4C02-4CCA-96BB-28AA4A4676BD}
+	EndGlobalSection
+EndGlobal
